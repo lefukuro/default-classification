@@ -5,12 +5,14 @@ build/
 dist/
 wheels/
 *.egg-info
+.python-version
 
 # Virtual environments
 .venv
 
 # Catboost
-catboost_info
+catboost_info/
 
-
+# OS
 .DS_Store
+
